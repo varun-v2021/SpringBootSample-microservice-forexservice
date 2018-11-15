@@ -12,6 +12,8 @@
 
 # Reference
 
+https://github.com/in28minutes/spring-boot-examples/tree/master/spring-boot-basic-microservice
+
 http://www.springboottutorial.com/creating-microservices-with-spring-boot-part-1-getting-started
 
 http://www.springboottutorial.com/creating-microservices-with-spring-boot-part-2-forex-microservice
