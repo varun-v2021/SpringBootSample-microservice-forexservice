@@ -10,6 +10,16 @@
 
 4. Add -Dserver.port=8001 in VM arguments sub window and select Run
 
+# Testing, check for ports in output to determine the load balancing concept
+
+http://localhost:8000/currency-exchange/from/USD/to/INR
+
+http://localhost:8100/currency-converter/from/EUR/to/INR/quantity/10000
+
+http://localhost:8100/currency-converter-feign/from/EUR/to/INR/quantity/10000
+
+http://localhost:8100/currency-converter-feign/from/EUR/to/INR/quantity/10000
+
 # Reference
 
 https://github.com/in28minutes/spring-boot-examples/tree/master/spring-boot-basic-microservice
