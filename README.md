@@ -1,6 +1,6 @@
 # SpringBootSample-microservice-forexservice
 
-# To start new instance on another port like 8001, follow below steps
+# To start new instance on another port like 8001 to test Ribbon Load Balancing Eureka Naming Server, follow below steps
 
 1. In eclipse, goto Run -> Run Configurations
 
